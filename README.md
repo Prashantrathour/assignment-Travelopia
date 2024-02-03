@@ -63,8 +63,10 @@ The CSS properties used in the project include:
 - `.button`: Defines the style for the button element, including padding, background color, and hover effect.
 
 ## Sample Image
+![Screenshot 2024-02-03 122225](https://github.com/Prashantrathour/assignment-Travelopia/assets/112960345/daca1e68-8f84-43cf-b3d2-faa022f4360d)
+![mobile (1)](https://github.com/Prashantrathour/assignment-Travelopia/assets/112960345/5a86cfb7-835c-4e30-a5b7-5e9abf1a8ae6)
 
-![Sample Image](img/travelopia.jpg)
+
 
 ## Usage
 
